@@ -1,3 +1,4 @@
+main.pdf
 *.aux
 *.glo
 *.idx
@@ -22,4 +23,9 @@
 *.mtc1
 *.out
 *.synctex.gz
-_minted-*
+*.wcdetail
+*.bcf
+*.fdb_latexmk
+*.fls
+*.run.xml
+_minted
